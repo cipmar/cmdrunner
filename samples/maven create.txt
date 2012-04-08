@@ -1,0 +1,1 @@
+mvn.bat archetype:create -DarchetypeGroupId=org.apache.maven.archetypes -DgroupId=ro.rmarius.${appname} -DartifactId=${appname}

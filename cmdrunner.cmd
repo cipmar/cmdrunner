@@ -1,0 +1,1 @@
+java -jar %windir%\system32\cmdrunner.jar %1
